@@ -1,4 +1,8 @@
-## Hi, I'm Harsh
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Harsh Narain, front end and AI/ML, Noida, India" src="assets/header-light.svg">
+</picture>
 
 Computer Science undergrad at Sharda University (B.Tech CSE, '27), based in Noida. I work on front end and on AI/ML, usually in the same project.
 
@@ -10,7 +14,12 @@ The idea: build a graph connecting symptoms, diseases and genes, then train a gr
 
 ### Tools
 
-Python, JavaScript, Java and SQL. For ML that's PyTorch, TensorFlow, Keras, HuggingFace Transformers, scikit-learn and OpenCV. On the web side React, Node, Express, Flask and Streamlit, with MongoDB, MySQL and Redis behind them. Git, Jupyter, Colab and Cursor day to day.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,javascript,java,mysql,mongodb,redis,pytorch,tensorflow,scikitlearn,opencv,react,nodejs,expressjs,flask,git&theme=dark&perline=15">
+  <img alt="Python, JavaScript, Java, MySQL, MongoDB, Redis, PyTorch, TensorFlow, scikit-learn, OpenCV, React, Node, Express, Flask, Git" src="https://skillicons.dev/icons?i=python,javascript,java,mysql,mongodb,redis,pytorch,tensorflow,scikitlearn,opencv,react,nodejs,expressjs,flask,git&theme=light&perline=15">
+</picture>
+
+Also Keras, HuggingFace Transformers, Jupyter and Colab.
 
 ### Away from the keyboard
 
