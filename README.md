@@ -1,35 +1,20 @@
-## Hi, I'm Harsh 👋
+## Hi, I'm Harsh
 
-Computer Science undergrad at **Sharda University** (B.Tech CSE, '27), based in Noida.
-I build front-ends and train models — usually in the same project.
+Computer Science undergrad at Sharda University (B.Tech CSE, '27), based in Noida. I work on front end and on AI/ML, usually in the same project.
 
-Right now I'm working on **RareSight**, an AI model for detecting rare diseases from limited data. Scarce data is the whole problem: the conditions that matter most are the ones with the fewest examples to learn from.
+### RareSight
 
----
+RareSight is what I'm building now. It takes a patient's symptoms, written as HPO codes, and ranks about 557 candidate diseases, best match first.
 
-### What I'm working on
+The idea: build a graph connecting symptoms, diseases and genes, then train a graph neural network on it. Patient and disease symptom profiles get compressed into 64-dimensional vectors and ranked by distance. The shortlist can then be reranked by an LLM using retrieved evidence.
 
-- 🧬 **RareSight** — rare disease detection under severe data scarcity
-- 📚 Going deeper on transformers and low-data training regimes
-- 🎨 Sharpening front-end craft — building interfaces for ML tools that non-ML people can actually use
+### Tools
 
-### Tech I reach for
-
-**Languages** &nbsp;Python · JavaScript · Java · SQL
-
-**ML / AI** &nbsp;PyTorch · TensorFlow · Keras · HuggingFace Transformers · scikit-learn · OpenCV
-
-**Web** &nbsp;React · Node.js · Express · Flask · Streamlit
-
-**Data** &nbsp;MongoDB · MySQL · Redis
-
-**Tools** &nbsp;Git · Jupyter · Colab · Cursor
+Python, JavaScript, Java and SQL. For ML that's PyTorch, TensorFlow, Keras, HuggingFace Transformers, scikit-learn and OpenCV. On the web side React, Node, Express, Flask and Streamlit, with MongoDB, MySQL and Redis behind them. Git, Jupyter, Colab and Cursor day to day.
 
 ### Away from the keyboard
 
-- 🎯 Top 1% in most FPS I take seriously — Valorant, CS:GO, Overwatch, Marvel Rivals, The Finals, Apex Legends
-- 🎵 osu! on the side
-- 📺 Anime, and following tech more closely than is probably healthy
+I play a lot of FPS and I'm top 1% in most of the ones I take seriously: Valorant, CS:GO, Overwatch, Marvel Rivals, The Finals and Apex Legends. osu! when I want something different. Anime the rest of the time.
 
 ### Reach me
 
