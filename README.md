@@ -15,8 +15,8 @@ The idea: build a graph connecting symptoms, diseases and genes, then train a gr
 ### Tools
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,javascript,java,mysql,mongodb,redis,pytorch,tensorflow,scikitlearn,opencv,react,nodejs,expressjs,flask,git&theme=dark&perline=15">
-  <img alt="Python, JavaScript, Java, MySQL, MongoDB, Redis, PyTorch, TensorFlow, scikit-learn, OpenCV, React, Node, Express, Flask, Git" src="https://skillicons.dev/icons?i=python,javascript,java,mysql,mongodb,redis,pytorch,tensorflow,scikitlearn,opencv,react,nodejs,expressjs,flask,git&theme=light&perline=15">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cjavascript%2Cjava%2Cmysql%2Cmongodb%2Credis%2Cpytorch%2Ctensorflow%2Cscikitlearn%2Copencv%2Creact%2Cnodejs%2Cexpressjs%2Cflask%2Cgit&theme=dark&perline=15">
+  <img alt="Python, JavaScript, Java, MySQL, MongoDB, Redis, PyTorch, TensorFlow, scikit-learn, OpenCV, React, Node, Express, Flask, Git" src="https://skillicons.dev/icons?i=python%2Cjavascript%2Cjava%2Cmysql%2Cmongodb%2Credis%2Cpytorch%2Ctensorflow%2Cscikitlearn%2Copencv%2Creact%2Cnodejs%2Cexpressjs%2Cflask%2Cgit&theme=light&perline=15">
 </picture>
 
 Also Keras, HuggingFace Transformers, Jupyter and Colab.
