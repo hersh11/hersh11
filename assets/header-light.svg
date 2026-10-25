@@ -1,9 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Harsh Narain">
   <title>Harsh Narain</title>
   <g font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif">
-    <text x="40" y="112" font-size="44" font-weight="700" fill="#1f2328">Harsh Narain</text>
-    <text x="42" y="147" font-size="18" fill="#59636e">Front end and AI/ML  &#183;  Noida, India</text>
-    <text x="42" y="176" font-size="15" fill="#818b98">Building RareSight</text>
+    <text x="40" y="118" font-size="44" font-weight="700" fill="#1f2328">Harsh Narain</text>
+    <text x="42" y="153" font-size="18" fill="#59636e">Web dev and AI/ML  &#183;  Noida, India</text>
   </g>
   <g>
     <rect x="548" y="66" width="12" height="12" rx="2.5" fill="#30a14e"/>
